@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Dhani</h1>
+  <h1 align="center">Ramadhani A.</h1>
   <h3 align="center">Informatics Engineering Student | Full-Stack Web Developer</h3>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=50&lines=Architecting+scalable+web+solutions;Passionate+about+clean+code+and+best+practices;Dedicated+Laboratory+Assistant+%26+Tech+Educator" alt="Typing SVG" />
@@ -53,7 +53,7 @@ In addition to my academic pursuits, I actively contribute to the tech community
       An integrated pharmacy management solution streamlining inventory tracking, stock alerts, and point-of-sale processing.
     </td>
     <td width="33%" valign="top">
-      <b>Medivation Errors Report</b><br/><br/>
+      <b>Medication Errors Report</b><br/><br/>
       A secure, analytical platform designed for the healthcare sector to report, track, and mitigate medical errors.
     </td>
   </tr>
